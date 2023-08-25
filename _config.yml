@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Wins MSP"
+title                    : "기술 블로그"
 title_separator          : "-"
-subtitle                 : "우리의 자랑 전명근 팀장님"
-name                     : "Wins MSP"
-description              : "Wins MSP 기술 블로그"
+subtitle                 : "기술 블로그"
+name                     : "기술 블로그"
+description              : "기술 블로그"
 url                      : "https://JunPyo0117.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/JunPyo0117/JunPyo0117.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Wins MSP"
   avatar           : "/assets/wins-logo.jpg"
-  bio              : "좋습니다. 좋아요"
+  bio              : "기술 블로그"
   location         : "Republic of Korea"
   email            :
   links:
