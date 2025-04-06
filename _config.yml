@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wins MSP"
-  avatar           : "/assets/wins-logo.jpg"
-  bio              : "기술 블로그"
+  name             : ""
+  avatar           : ""
+  bio              : "블로그"
   location         : "Republic of Korea"
   email            :
   links:
